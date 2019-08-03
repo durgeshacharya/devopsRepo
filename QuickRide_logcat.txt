@@ -1,4 +1,4 @@
---------- beginning of main
+--hello------- beginning of main
 02-27 07:14:42.595  4381  4381 D TidaProvider: TidaProvider()
 02-27 07:14:42.604  4381  4381 W ReflectionUtils: 
 02-27 07:14:42.604  4381  4381 W ReflectionUtils: java.lang.NoSuchMethodException: android.os.MessageQueue#enableMonitor()#bestmatch
